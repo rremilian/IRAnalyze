@@ -1,9 +1,8 @@
 from setuptools import setup, find_packages
-from IRAnalyze import iranalyze
 
 setup(
     name = "IRAnalyze",
-    version = iranalyze.iranalyze.version,
+    version = "1.0.0",
     url = "https://github.com/rremilian/IRAnalyze",
     author = "rremilian",
     description = "A Python module to analyze experimental and theoretical spectra",
