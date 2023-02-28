@@ -1,2 +1,2 @@
 # IRAnalyze
-A Python program to analyze experimental and theoretical spectra
+A Python module for analyzing experimental and theoretical spectra
